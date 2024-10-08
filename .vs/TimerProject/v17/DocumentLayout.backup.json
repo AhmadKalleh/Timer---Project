@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\currentclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|solutionrelative:currentclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|c:\\users\\ahmad\\onedrive\\desktop\\my projects\\project course 14\\timerproject\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|solutionrelative:stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|solutionrelative:mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|solutionrelative:mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|solutionrelative:stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\timerscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|solutionrelative:timerscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\timerscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|solutionrelative:timerscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|solutionrelative:stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|solutionrelative:mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|solutionrelative:mainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\currentclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|solutionrelative:currentclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\timerscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|TimerProject.csproj|solutionrelative:timerscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\currentclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|solutionrelative:currentclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\currentclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|solutionrelative:currentclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|solutionrelative:stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393D2C07-EEF9-42EA-9115-71FA629D464D}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimerScreen.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\TimerScreen.cs",
+              "RelativeDocumentMoniker": "TimerScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\TimerScreen.cs",
+              "RelativeToolTip": "TimerScreen.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:53:29.175Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurrentClock.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\CurrentClock.cs",
+              "RelativeDocumentMoniker": "CurrentClock.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\CurrentClock.cs",
+              "RelativeToolTip": "CurrentClock.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:21:17.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentClock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\CurrentClock.cs",
+              "RelativeDocumentMoniker": "CurrentClock.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\CurrentClock.cs [Design]",
+              "RelativeToolTip": "CurrentClock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:21:17.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\MainScreen.cs",
+              "RelativeDocumentMoniker": "MainScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\MainScreen.cs",
+              "RelativeToolTip": "MainScreen.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:21:00.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\MainScreen.cs",
+              "RelativeDocumentMoniker": "MainScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\MainScreen.cs [Design]",
+              "RelativeToolTip": "MainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:21:00.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimerScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\TimerScreen.cs",
+              "RelativeDocumentMoniker": "TimerScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\TimerScreen.cs [Design]",
+              "RelativeToolTip": "TimerScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:20:57.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StopWatch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\StopWatch.cs",
+              "RelativeDocumentMoniker": "StopWatch.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\StopWatch.cs [Design]",
+              "RelativeToolTip": "StopWatch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:21:54.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StopWatch.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\StopWatch.cs",
+              "RelativeDocumentMoniker": "StopWatch.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\StopWatch.cs",
+              "RelativeToolTip": "StopWatch.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAvwEcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:21:54.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\MainScreen.cs",
+              "RelativeDocumentMoniker": "MainScreen.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\MainScreen.cs",
+              "RelativeToolTip": "MainScreen.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwCkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:01:14.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimerScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\TimerScreen.cs",
+              "RelativeDocumentMoniker": "TimerScreen.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\source\\repos\\WindowsFormsApp1\\TimerScreen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\VICTUS\\source\\repos\\WindowsFormsApp1\\TimerScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:52:16.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StopWatch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\StopWatch.cs",
+              "RelativeDocumentMoniker": "StopWatch.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\source\\repos\\WindowsFormsApp1\\StopWatch.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\VICTUS\\source\\repos\\WindowsFormsApp1\\StopWatch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:11:22.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\MainScreen.cs",
+              "RelativeDocumentMoniker": "MainScreen.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\source\\repos\\WindowsFormsApp1\\MainScreen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\VICTUS\\source\\repos\\WindowsFormsApp1\\MainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:58:01.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StopWatch.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\StopWatch.cs",
+              "RelativeDocumentMoniker": "StopWatch.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\StopWatch.cs",
+              "RelativeToolTip": "StopWatch.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:11:22.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CurrentClock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\CurrentClock.cs",
+              "RelativeDocumentMoniker": "CurrentClock.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\source\\repos\\WindowsFormsApp1\\CurrentClock.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\VICTUS\\source\\repos\\WindowsFormsApp1\\CurrentClock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:07:56.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CurrentClock.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\CurrentClock.cs",
+              "RelativeDocumentMoniker": "CurrentClock.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\CurrentClock.cs",
+              "RelativeToolTip": "CurrentClock.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:11:34.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\My Projects\\Project Course 14\\TimerProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:52:25.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\obj\Debug\TimerProject.csproj.AssemblyReference.cache
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CurrentClock.resources
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StopWatch.resources
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TimerScreen.resources
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainScreen.resources
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\obj\Debug\TimerProject.csproj.GenerateResource.cache
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\obj\Debug\TimerProject.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\VICTUS\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\bin\Debug\WindowsFormsApp1.exe
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\TimerProject.csproj.AssemblyReference.cache
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.CurrentClock.resources
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.StopWatch.resources
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.TimerScreen.resources
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.MainScreen.resources
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\TimerProject.csproj.GenerateResource.cache
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\TimerProject.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.exe
+C:\Users\VICTUS\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\TimerProject.csproj.AssemblyReference.cache
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.CurrentClock.resources
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.StopWatch.resources
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.TimerScreen.resources
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.MainScreen.resources
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\TimerProject.csproj.GenerateResource.cache
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\TimerProject.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\TimerProject\obj\Debug\WindowsFormsApp1.pdb
